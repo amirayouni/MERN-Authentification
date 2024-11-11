@@ -5,6 +5,18 @@ Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB,
 
 ---
 
+## output
+### Login Screen
+![Login Screen](assets/loginScreen.png)
+
+### User Screen
+![User Screen](assets/userScreen.png)
+
+### Register Screen
+![Register Screen](assets/registerScreen.png)
+
+---
+
 ## Table des matières
 - 🪧 [Description](#description)
 - 🛠️ [Fonctionnalités](#fonctionnalités)
