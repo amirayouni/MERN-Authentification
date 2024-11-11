@@ -8,6 +8,8 @@ Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB,
 
 ## output
 
+<<<<<<< HEAD
+
 ### Login Screen
 
 ![Login Screen](/client/src/assets/loginScreen.png)
@@ -19,6 +21,8 @@ Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB,
 ### User Screen
 
 ![User Screen](/client/src/assets/userScreen.png)
+
+> > > > > > >
 
 ---
 
