@@ -1,4 +1,5 @@
 # TEST
+
 ## 🪧 Description
 
 Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB, Express.js, React.js, Node.js). Permet l'inscription, la connexion et l'accès à la liste des utilisateurs via des API sécurisées
@@ -6,18 +7,23 @@ Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB,
 ---
 
 ## output
-### Login Screen
-![Login Screen](assets/loginScreen.png)
 
-### User Screen
-![User Screen](assets/userScreen.png)
+### Login Screen
+
+![Login Screen](/client/src/assets/loginScreen.png)
 
 ### Register Screen
-![Register Screen](assets/registerScreen.png)
+
+![Register Screen](/client/src/assets/registerScreen.png)
+
+### User Screen
+
+![User Screen](/client/src/assets/userScreen.png)
 
 ---
 
 ## Table des matières
+
 - 🪧 [Description](#description)
 - 🛠️ [Fonctionnalités](#fonctionnalités)
 - 🏗️ [Stack Technologique](##stack-technologique)
@@ -29,6 +35,7 @@ Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB,
 ---
 
 ## 🛠️ Fonctionnalités
+
 - **Enregistrement des Utilisateurs** : Permet aux nouveaux utilisateurs de s'inscrire en fournissant leur nom, email, mot de passe et date de naissance. Les mots de passe sont hachés de manière sécurisée avec **bcrypt**.
 - **Connexion des Utilisateurs** : Les utilisateurs peuvent se connecter en fournissant leurs informations d'identification. Un **token JWT** est généré pour l'authentification.
 - **Liste des Utilisateurs** : Les utilisateurs administrateurs peuvent consulter une liste paginée des utilisateurs enregistrés.
@@ -39,6 +46,7 @@ Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB,
 ---
 
 ## 🏗️ Stack Technologique
+
 - **Backend** : Node.js, Express.js
 - **Base de données** : MongoDB (avec Mongoose pour l'ORM)
 - **Authentification** : JWT (JSON Web Token)
@@ -50,7 +58,9 @@ Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB,
 ---
 
 ## 📦 Prérequis
+
 Avant de pouvoir utiliser ce projet, assurez-vous d'avoir installé les éléments suivants :
+
 - **Node.js** (v14 ou supérieur) : environnement pour exécuter le code JavaScript côté serveur. [Documentation Node.js](https://nodejs.org/)
 - **MongoDB** : base de données NoSQL utilisée pour stocker les informations utilisateur. [Documentation MongoDB](https://docs.mongodb.com/)
 - **NPM** : gestionnaire de paquets Node.js pour installer les dépendances. [Documentation NPM](https://docs.npmjs.com/)
@@ -58,6 +68,7 @@ Avant de pouvoir utiliser ce projet, assurez-vous d'avoir installé les élémen
 ---
 
 ## 🚀 Installation
+
 ### Clonez le dépôt
 
 ```bash
@@ -98,9 +109,11 @@ CLE='votre_clé_secrète_jwt'
 ---
 
 ## 📝 Licence
+
 Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
 
 ---
 
 ## 📬 Contact
+
 - Email: amirayouni41@gmail.com
