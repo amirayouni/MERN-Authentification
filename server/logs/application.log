@@ -450,3 +450,8 @@
 {"error":{},"level":"error","message":"Error: Email invalid","timestamp":"2024-11-11T19:49:39.234Z"}
 {"level":"info","message":"User registered successfully: amirayouni@gmail.com","timestamp":"2024-11-11T19:50:04.936Z"}
 {"level":"info","message":"User logged in successfully: amirayouni@gmail.com","timestamp":"2024-11-11T19:50:22.225Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-11T22:54:10.906Z"}
+{"level":"info","message":"User registered successfully: user1@gmail.com","timestamp":"2024-11-11T22:59:12.714Z"}
+{"level":"info","message":"User registered successfully: user2@gmail.com","timestamp":"2024-11-11T22:59:47.156Z"}
+{"level":"info","message":"User registered successfully: user3@gmail.com","timestamp":"2024-11-11T23:00:17.288Z"}
+{"level":"info","message":"User logged in successfully: user1@gmail.com","timestamp":"2024-11-11T23:00:27.885Z"}
