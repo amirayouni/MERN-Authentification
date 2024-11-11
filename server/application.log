@@ -1,0 +1,16 @@
+{"level":"info","message":"User registered successfully: melek.mbr@example.com","timestamp":"2024-11-05T19:00:01.302Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@example.com","timestamp":"2024-11-05T19:00:09.480Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-05T19:01:35.218Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-05T19:04:16.464Z"}
+{"level":"info","message":"User registered successfully: amir.ayouni@example.com","timestamp":"2024-11-05T19:06:15.426Z"}
+{"level":"info","message":"User logged in successfully: amir.ayouni@example.com","timestamp":"2024-11-05T19:06:28.434Z"}
+{"level":"warn","message":"No token provided","timestamp":"2024-11-05T19:08:23.739Z"}
+{"level":"warn","message":"No token provided","timestamp":"2024-11-05T19:08:27.020Z"}
+{"level":"warn","message":"No token provided","timestamp":"2024-11-05T19:08:30.369Z"}
+{"level":"warn","message":"No token provided","timestamp":"2024-11-05T19:08:37.562Z"}
+{"level":"info","message":"User logged in successfully: amir.ayouni@example.com","timestamp":"2024-11-05T19:11:22.050Z"}
+{"level":"info","message":"User registered successfully: hatem.rbaa@example.com","timestamp":"2024-11-05T19:50:56.118Z"}
+{"level":"info","message":"User logged in successfully: hatem.rbaa@example.com","timestamp":"2024-11-05T19:51:12.875Z"}
+{"error":{"statusCode":400},"level":"error","message":"Error: Username is required","timestamp":"2024-11-06T10:38:14.874Z"}
+{"level":"info","message":"User registered successfully: abdou.nouma@example.com","timestamp":"2024-11-06T10:41:11.701Z"}
+{"level":"info","message":"User logged in successfully: abdou.nouma@example.com","timestamp":"2024-11-06T10:41:25.034Z"}

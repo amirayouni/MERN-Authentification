@@ -1,0 +1,452 @@
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-06T13:59:02.069Z"}
+{"level":"info","message":"User registered successfully: bou3i.yassine@example.com","timestamp":"2024-11-06T13:59:42.635Z"}
+{"level":"info","message":"User logged in successfully: bou3i.yassine@example.com","timestamp":"2024-11-06T13:59:53.466Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-06T14:49:38.129Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password must be at least 6 characters long","path":"password","type":"field","value":""},{"location":"body","msg":"First name is required","path":"firstName","type":"field","value":""},{"location":"body","msg":"Last name is required","path":"lastName","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-06T14:58:50.799Z"}
+{"level":"info","message":"User logged in successfully: bou3i.yassine@example.com","timestamp":"2024-11-06T14:59:50.995Z"}
+{"level":"info","message":"User registered successfully: amirayouni41@gmail.com","timestamp":"2024-11-06T15:01:31.513Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-06T15:08:42.009Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-06T15:16:52.409Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password must be at least 6 characters long","path":"password","type":"field","value":""},{"location":"body","msg":"First name is required","path":"firstName","type":"field","value":""},{"location":"body","msg":"Last name is required","path":"lastName","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-06T15:36:27.795Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-06T15:40:04.658Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-06T16:03:06.449Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password must be at least 6 characters long","path":"password","type":"field","value":""},{"location":"body","msg":"First name is required","path":"firstName","type":"field","value":""},{"location":"body","msg":"Last name is required","path":"lastName","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-06T16:32:28.547Z"}
+{"error":{"errors":[{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-06T16:33:25.299Z"}
+{"level":"info","message":"User registered successfully: wassim12@gmail.com","timestamp":"2024-11-06T16:34:07.293Z"}
+{"level":"info","message":"User logged in successfully: wassim12@gmail.com","timestamp":"2024-11-06T16:34:22.432Z"}
+{"level":"info","message":"User logged in successfully: wassim12@gmail.com","timestamp":"2024-11-06T16:37:22.745Z"}
+{"level":"info","message":"User registered successfully: ezzo@gmail.com","timestamp":"2024-11-06T16:38:09.245Z"}
+{"level":"info","message":"User logged in successfully: ezzo@gmail.com","timestamp":"2024-11-06T16:38:27.053Z"}
+{"level":"info","message":"User registered successfully: amir@test.com","timestamp":"2024-11-06T16:42:55.547Z"}
+{"level":"info","message":"User logged in successfully: amir@test.com","timestamp":"2024-11-06T16:43:03.888Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-07T12:23:25.880Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-07T16:58:48.289Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-07T20:00:46.243Z"}
+{"level":"info","message":"User registered successfully: rayen@gmail.com","timestamp":"2024-11-07T20:01:22.500Z"}
+{"level":"info","message":"User logged in successfully: rayen@gmail.com","timestamp":"2024-11-07T20:01:56.808Z"}
+{"level":"info","message":"User registered successfully: nesrine@gmail.com","timestamp":"2024-11-07T20:02:48.398Z"}
+{"level":"info","message":"User logged in successfully: nesrine@gmail.com","timestamp":"2024-11-07T20:03:01.441Z"}
+{"level":"info","message":"User registered successfully: laith@gmail.com","timestamp":"2024-11-07T20:04:47.698Z"}
+{"level":"info","message":"User logged in successfully: laith@gmail.com","timestamp":"2024-11-07T20:05:18.203Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-09T13:44:23.423Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:29.915Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:29.916Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:29.922Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:29.923Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:32.289Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:32.290Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:32.296Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:32.297Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:33.280Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:33.281Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:33.288Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:33.288Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:33.983Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:33.984Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:33.990Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:33.990Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:34.553Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:34.554Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:34.561Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:34.561Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:35.123Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:35.123Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:44:35.127Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:44:35.128Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:45:00.269Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:45:00.270Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:45:00.276Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:45:00.277Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:45:52.862Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:45:52.862Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:45:52.867Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:45:52.867Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:45:53.827Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:45:53.828Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:45:53.834Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:45:53.835Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:45:55.008Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:45:55.010Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:45:55.015Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:45:55.016Z"}
+{"level":"info","message":"User registered successfully: bou3333i.yassine@example.com","timestamp":"2024-11-09T13:47:46.125Z"}
+{"level":"info","message":"User logged in successfully: bou3333i.yassine@example.com","timestamp":"2024-11-09T13:47:56.274Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:48:26.420Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:48:26.421Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:48:26.424Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:48:26.425Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:48:27.774Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:48:27.775Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:48:27.780Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:48:27.781Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:48:28.482Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:48:28.483Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:48:28.489Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:48:28.490Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:48:29.135Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:48:29.135Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:48:29.140Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:48:29.141Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:51:33.131Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:51:33.132Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:51:33.135Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:51:33.135Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:54:30.088Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:54:30.088Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T13:54:30.094Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T13:54:30.095Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:03:41.959Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:03:41.959Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:03:41.964Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:03:41.965Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:03:43.772Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:03:43.773Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:03:43.784Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:03:43.784Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:03:44.504Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:03:44.504Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:03:44.511Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:03:44.512Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:04:55.160Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:04:55.161Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:04:55.170Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:04:55.171Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:19.613Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:19.614Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:19.616Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:19.616Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:19.623Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:19.623Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:19.625Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:19.626Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:27.296Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:27.296Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:27.299Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:27.299Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:27.305Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:27.306Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:27.309Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:27.310Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:28.242Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:28.243Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:28.247Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:28.248Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:28.252Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:28.252Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:05:28.255Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:05:28.255Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-09T14:12:04.424Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:14.161Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:14.163Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:14.166Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:14.167Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:14.169Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:14.170Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:14.172Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:14.173Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:15.320Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:15.321Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:15.323Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:15.324Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:15.327Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:15.328Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:15.333Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:15.334Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:16.177Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:16.179Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:16.183Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:16.184Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:16.187Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:16.187Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:12:16.189Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:12:16.190Z"}
+{"level":"info","message":"User registered successfully: kamel.yassine@example.com","timestamp":"2024-11-09T14:13:03.721Z"}
+{"level":"info","message":"User logged in successfully: kamel.yassine@example.com","timestamp":"2024-11-09T14:13:15.601Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:31.813Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:31.814Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:31.816Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:31.816Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:31.818Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:31.818Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:31.821Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:31.821Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:32.870Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:32.871Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:32.874Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:32.875Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:32.879Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:32.879Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:32.881Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:32.881Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:33.714Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:33.715Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:33.717Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:33.718Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:33.722Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:33.723Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:33.727Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:33.728Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:51.999Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:52.000Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:52.004Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:52.004Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:52.010Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:52.012Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:52.017Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:52.018Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:58.622Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:58.622Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:58.627Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:58.627Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:58.631Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:58.632Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:13:58.638Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:13:58.639Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:20:41.146Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:20:41.146Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:21:54.139Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:21:54.141Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:06.700Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:06.700Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:06.707Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:06.707Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:07.527Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:07.528Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:07.539Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:07.540Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:08.210Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:08.211Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:08.216Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:08.217Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:08.584Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:08.585Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:08.593Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:08.594Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:08.902Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:08.902Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:22:08.911Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:22:08.911Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:28:58.770Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:28:58.771Z"}
+{"level":"error","message":"Token verification failed: jwt expired","timestamp":"2024-11-09T14:28:58.777Z"}
+{"error":{"statusCode":403},"level":"error","message":"Error: Invalid token.","timestamp":"2024-11-09T14:28:58.777Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T14:32:29.978Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T14:32:29.978Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T14:32:30.965Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T14:32:30.966Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T14:32:31.632Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T14:32:31.633Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T14:32:32.305Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T14:32:32.305Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T14:32:32.852Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T14:32:32.852Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T14:32:33.412Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T14:32:33.412Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T14:32:34.427Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T14:32:34.428Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T14:32:36.443Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T14:32:36.444Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password must be at least 6 characters long","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T14:56:25.560Z"}
+{"level":"info","message":"User registered successfully: amirayouni41@gmail.com","timestamp":"2024-11-09T14:58:43.110Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:00:10.335Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:00:10.335Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:00:11.349Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:00:11.349Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:00:13.357Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:00:13.357Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:02:04.298Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:02:04.298Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:02:05.318Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:02:05.318Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:02:07.338Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:02:07.339Z"}
+{"level":"warn","message":"Wrong password attempt for email: amirayouni41@gmail.com","timestamp":"2024-11-09T15:02:23.746Z"}
+{"error":{},"level":"error","message":"Error: Wrong Password","timestamp":"2024-11-09T15:02:23.747Z"}
+{"level":"warn","message":"Wrong password attempt for email: amirayouni41@gmail.com","timestamp":"2024-11-09T15:02:34.515Z"}
+{"error":{},"level":"error","message":"Error: Wrong Password","timestamp":"2024-11-09T15:02:34.516Z"}
+{"level":"warn","message":"Wrong password attempt for email: amirayouni41@gmail.com","timestamp":"2024-11-09T15:02:35.885Z"}
+{"error":{},"level":"error","message":"Error: Wrong Password","timestamp":"2024-11-09T15:02:35.886Z"}
+{"level":"warn","message":"Wrong password attempt for email: amirayouni41@gmail.com","timestamp":"2024-11-09T15:02:36.335Z"}
+{"error":{},"level":"error","message":"Error: Wrong Password","timestamp":"2024-11-09T15:02:36.335Z"}
+{"level":"warn","message":"Wrong password attempt for email: amirayouni41@gmail.com","timestamp":"2024-11-09T15:02:36.958Z"}
+{"error":{},"level":"error","message":"Error: Wrong Password","timestamp":"2024-11-09T15:02:36.959Z"}
+{"level":"info","message":"User registered successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:03:30.649Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:03:47.125Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:05:10.178Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:05:12.209Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:05:12.210Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:05:13.234Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:05:13.234Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:05:15.242Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:05:15.243Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:05:19.266Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:05:19.267Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:07:28.648Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:07:28.649Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:07:29.659Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:07:29.660Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:07:31.667Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:07:31.667Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:07:35.675Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:07:35.676Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:09:46.916Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:09:46.917Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:09:57.214Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:10:59.252Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:13:54.266Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T15:14:42.140Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:16:22.221Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:16:45.696Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-09T15:17:46.958Z"}
+{"level":"info","message":"User registered successfully: hatem@gmail.com","timestamp":"2024-11-09T15:21:49.135Z"}
+{"level":"info","message":"User logged in successfully: hatem@gmail.com","timestamp":"2024-11-09T15:22:40.408Z"}
+{"level":"info","message":"User logged in successfully: hatem@gmail.com","timestamp":"2024-11-09T15:25:24.765Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:25:26.797Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:25:26.797Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:25:27.815Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:25:27.816Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:25:29.835Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:25:29.836Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:25:33.846Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:25:33.847Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:26:07.051Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:26:07.052Z"}
+{"level":"warn","message":"Authorization header is missing or token is not provided","timestamp":"2024-11-09T15:26:08.062Z"}
+{"error":{"statusCode":401},"level":"error","message":"Error: No token provided.","timestamp":"2024-11-09T15:26:08.062Z"}
+{"level":"info","message":"User logged in successfully: hatem@gmail.com","timestamp":"2024-11-09T15:27:31.321Z"}
+{"level":"info","message":"User logged in successfully: hatem@gmail.com","timestamp":"2024-11-09T15:31:12.935Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-09T15:33:49.108Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-09T15:37:17.795Z"}
+{"level":"info","message":"User registered successfully: rayen.bebis@example.com","timestamp":"2024-11-09T15:38:05.514Z"}
+{"level":"warn","message":"Invalid login attempt for email: kamel.yassine@example.com","timestamp":"2024-11-09T15:38:08.790Z"}
+{"error":{},"level":"error","message":"Error: Email invalid","timestamp":"2024-11-09T15:38:08.793Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-09T15:38:49.979Z"}
+{"level":"info","message":"User logged in successfully: rayen.bebis@example.com","timestamp":"2024-11-09T15:38:56.987Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-09T15:40:51.987Z"}
+{"level":"info","message":"User logged in successfully: hatem@gmail.com","timestamp":"2024-11-09T15:44:21.035Z"}
+{"level":"info","message":"User registered successfully: oussema@gmail.com","timestamp":"2024-11-09T15:48:41.151Z"}
+{"level":"info","message":"User logged in successfully: oussema@gmail.com","timestamp":"2024-11-09T15:50:00.543Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-09T18:26:01.987Z"}
+{"level":"info","message":"User registered successfully: abdou@gmail.com","timestamp":"2024-11-09T18:27:48.696Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-09T18:28:16.242Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-09T21:06:55.238Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-09T21:11:20.824Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-09T22:05:02.492Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T22:05:17.389Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-09T22:15:32.839Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T22:27:35.317Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T22:39:03.686Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T22:39:04.547Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-09T22:47:40.142Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T23:04:02.243Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T23:04:19.074Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-09T23:27:42.422Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T23:28:26.139Z"}
+{"level":"warn","message":"Invalid login attempt for email: aaaaaa@gmail.com","timestamp":"2024-11-09T23:28:43.646Z"}
+{"error":{},"level":"error","message":"Error: Email invalid","timestamp":"2024-11-09T23:28:43.649Z"}
+{"level":"warn","message":"Invalid login attempt for email: aaaaaa@gmail.com","timestamp":"2024-11-09T23:28:44.309Z"}
+{"error":{},"level":"error","message":"Error: Email invalid","timestamp":"2024-11-09T23:28:44.311Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password must be at least 6 characters long","path":"password","type":"field","value":""},{"location":"body","msg":"First name is required","path":"firstName","type":"field"},{"location":"body","msg":"Last name is required","path":"lastName","type":"field"}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-09T23:54:20.643Z"}
+{"level":"info","message":"User registered successfully: rasslen@gmail.com","timestamp":"2024-11-10T00:28:19.495Z"}
+{"level":"warn","message":"Wrong password attempt for email: rasslen@gmail.com","timestamp":"2024-11-10T00:28:35.210Z"}
+{"error":{},"level":"error","message":"Error: Wrong Password","timestamp":"2024-11-10T00:28:35.210Z"}
+{"level":"info","message":"User logged in successfully: rasslen@gmail.com","timestamp":"2024-11-10T00:28:43.189Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T01:21:38.127Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T01:21:52.090Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T01:22:30.755Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T01:22:31.841Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T01:22:32.302Z"}
+{"level":"info","message":"User registered successfully: nessrine@gmail.com","timestamp":"2024-11-10T01:27:39.908Z"}
+{"level":"info","message":"User logged in successfully: nessrine@gmail.com","timestamp":"2024-11-10T01:28:22.687Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password is required","path":"password","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T01:30:22.000Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password must be at least 6 characters long","path":"password","type":"field","value":""},{"location":"body","msg":"First name is required","path":"firstName","type":"field","value":""},{"location":"body","msg":"Last name is required","path":"lastName","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T01:44:28.616Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-10T02:56:28.236Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-10T02:59:57.348Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":"ezzo@gmail..com"}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T03:05:58.238Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":"ezzo@gmail..com"}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T03:06:01.549Z"}
+{"level":"info","message":"User registered successfully: ezzo@gmail.com","timestamp":"2024-11-10T03:06:13.845Z"}
+{"level":"info","message":"User registered successfully: wassim@gmail.com","timestamp":"2024-11-10T03:07:42.204Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-10T03:19:42.681Z"}
+{"level":"info","message":"User registered successfully: aaaa@gmail.com","timestamp":"2024-11-10T03:30:49.074Z"}
+{"level":"info","message":"User registered successfully: nouma@gmail.com","timestamp":"2024-11-10T03:32:32.752Z"}
+{"level":"info","message":"User registered successfully: abdou112@gmail.com","timestamp":"2024-11-10T03:33:30.326Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-10T03:33:56.295Z"}
+{"level":"info","message":"User registered successfully: hatem123@gmail.com","timestamp":"2024-11-10T03:36:48.450Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:01.917Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:01.923Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:06.244Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:06.247Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:08.761Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:08.764Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:12.632Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:12.635Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:30.975Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:30.978Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:35.669Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:35.672Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:38.064Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:38.067Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:44.039Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:44.046Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:46.109Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:46.112Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:46.696Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:46.699Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:37:46.779Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:37:46.786Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"hatem123@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"hatem123@gmail.com\" }","timestamp":"2024-11-10T03:38:00.654Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:38:00.657Z"}
+{"level":"info","message":"User registered successfully: abdou897@gmail.com","timestamp":"2024-11-10T03:39:48.348Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":"abdougmail.com"}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T03:46:35.243Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"abdou@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"abdou@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"abdou@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"abdou@gmail.com\" }","timestamp":"2024-11-10T03:46:43.110Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:46:43.116Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"abdou@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"abdou@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"abdou@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"abdou@gmail.com\" }","timestamp":"2024-11-10T03:46:50.398Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:46:50.403Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"abdou@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"abdou@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"abdou@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"abdou@gmail.com\" }","timestamp":"2024-11-10T03:47:06.955Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:47:06.958Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","timestamp":"2024-11-10T03:47:20.125Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:47:20.128Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","timestamp":"2024-11-10T03:47:37.876Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:47:37.879Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","timestamp":"2024-11-10T03:48:18.612Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:48:18.615Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","timestamp":"2024-11-10T03:48:20.501Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:48:20.504Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","timestamp":"2024-11-10T03:48:23.363Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:48:23.366Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","timestamp":"2024-11-10T03:48:30.966Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:48:30.969Z"}
+{"error":{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"index":0,"keyPattern":{"email":1},"keyValue":{"email":"amirayouni41@gmail.com"}},"level":"error","message":"Error while registering user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: \"amirayouni41@gmail.com\" }","timestamp":"2024-11-10T03:49:57.329Z"}
+{"error":{},"level":"error","message":"Error: Problem while adding user","timestamp":"2024-11-10T03:49:57.334Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-10T03:51:11.616Z"}
+{"level":"info","message":"User registered successfully: kamel@gmail.com","timestamp":"2024-11-10T03:51:55.692Z"}
+{"level":"info","message":"User registered successfully: abidi@gmail.com","timestamp":"2024-11-10T03:52:49.915Z"}
+{"level":"info","message":"User registered successfully: jileni@gmail.com","timestamp":"2024-11-10T03:55:02.564Z"}
+{"level":"info","message":"User registered successfully: mimou@gmail.com","timestamp":"2024-11-10T04:14:34.260Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-10T04:14:56.516Z"}
+{"level":"info","message":"User logged in successfully: abdou@gmail.com","timestamp":"2024-11-10T04:50:10.267Z"}
+{"level":"info","message":"User registered successfully: amirayouni41@gmail.com","timestamp":"2024-11-10T05:14:49.672Z"}
+{"level":"info","message":"User logged in successfully: amirayouni41@gmail.com","timestamp":"2024-11-10T05:15:01.542Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-10T12:19:07.782Z"}
+{"level":"info","message":"User registered successfully: melek.mbr@gmail.com","timestamp":"2024-11-10T12:21:11.377Z"}
+{"level":"info","message":"User logged in successfully: melek.mbr@gmail.com","timestamp":"2024-11-10T12:21:22.539Z"}
+{"error":{"errors":[{"location":"body","msg":"Invalid email format","path":"email","type":"field","value":""},{"location":"body","msg":"Password must be at least 6 characters long","path":"password","type":"field","value":""},{"location":"body","msg":"First name is required","path":"firstName","type":"field","value":""},{"location":"body","msg":"Last name is required","path":"lastName","type":"field","value":""}],"message":"Validation errors occurred","statusCode":400},"level":"error","message":"Error: Validation errors occurred","timestamp":"2024-11-10T12:23:51.627Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-10T13:16:32.003Z"}
+{"level":"info","message":"User registered successfully: hatem@gmail.com","timestamp":"2024-11-10T13:17:43.065Z"}
+{"level":"info","message":"User logged in successfully: hatem@gmail.com","timestamp":"2024-11-10T13:17:58.252Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-10T20:48:51.096Z"}
+{"level":"info","message":"User registered successfully: semah@gmail.com","timestamp":"2024-11-10T20:50:46.766Z"}
+{"level":"info","message":"User logged in successfully: semah@gmail.com","timestamp":"2024-11-10T20:51:01.081Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-10T22:40:14.916Z"}
+{"level":"info","message":"User logged in successfully: rasslen@gmail.com","timestamp":"2024-11-10T22:48:42.506Z"}
+{"level":"info","message":"User logged in successfully: rasslen@gmail.com","timestamp":"2024-11-10T22:56:14.916Z"}
+{"level":"info","message":"User logged in successfully: rasslen@gmail.com","timestamp":"2024-11-10T23:21:57.012Z"}
+{"level":"info","message":"User registered successfully: abdou22@gmail.com","timestamp":"2024-11-11T00:05:40.676Z"}
+{"level":"info","message":"User logged in successfully: abdou22@gmail.com","timestamp":"2024-11-11T00:05:53.317Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-11T19:46:56.412Z"}
+{"level":"warn","message":"Invalid login attempt for email: abdou@gmail.com","timestamp":"2024-11-11T19:49:27.104Z"}
+{"error":{},"level":"error","message":"Error: Email invalid","timestamp":"2024-11-11T19:49:27.105Z"}
+{"level":"warn","message":"Invalid login attempt for email: abdou@gmail.com","timestamp":"2024-11-11T19:49:39.233Z"}
+{"error":{},"level":"error","message":"Error: Email invalid","timestamp":"2024-11-11T19:49:39.234Z"}
+{"level":"info","message":"User registered successfully: amirayouni@gmail.com","timestamp":"2024-11-11T19:50:04.936Z"}
+{"level":"info","message":"User logged in successfully: amirayouni@gmail.com","timestamp":"2024-11-11T19:50:22.225Z"}
