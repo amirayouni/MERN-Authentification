@@ -6,7 +6,7 @@ Application sécurisée de gestion des utilisateurs avec la stack MERN (MongoDB,
 
 ---
 
-## output
+## 📤 output
 ### Login Screen
 
 ![Login Screen](/client/src/assets/loginScreen.png)
