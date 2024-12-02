@@ -1,4 +1,4 @@
-# StrategIn-techTEST
+# MERN-Authentification
 
 ## 🪧 Description
 
